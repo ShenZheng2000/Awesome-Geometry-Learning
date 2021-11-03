@@ -17,8 +17,6 @@ This is a curated list of Geometry Learning resources based on Deep Learning.
 
 - Deep learning for 3D point clouds: A survey. (2019)
 
-- A Survey on Deep Geometry Learning: From a Representation Perspective. (2020)
-
 - Image-based 3D Object Reconstruction: State-of-the-Art and Trends in the Deep Learning Era. (2020)
 
 
